@@ -1,0 +1,17 @@
+{
+  "name": "Data Storage and Processing",
+  "colors": "bg-light-fg-dark",
+  "styles": {
+    "self": {
+      "padding": ["pt-6", "pb-6", "pl-6", "pr-6"],
+      "textAlign": "left",
+      "borderColor": "border-neutral",
+      "borderStyle": "solid",
+      "borderWidth": 0,
+      "borderRadius": "none",
+      "justifyContent": "left"
+    }
+  },
+  "type": "Person",
+  "bio": "- All functionality runs **within the customer’s Microsoft Dynamics 365 Business Central environment**\n- No data is transmitted to external systems or third-party services\n- No data is stored by our company"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Data Sharing and Disclosure",
+  "colors": "bg-light-fg-dark",
+  "styles": {
+    "self": {
+      "padding": ["pt-6", "pb-6", "pl-6", "pr-6"],
+      "textAlign": "left",
+      "borderColor": "border-neutral",
+      "borderStyle": "solid",
+      "borderWidth": 0,
+      "borderRadius": "none",
+      "justifyContent": "left"
+    }
+  },
+  "type": "Person",
+  "bio": "We do **not** share, sell, rent, or disclose any personal data to third parties, as no personal data is collected by the Extension."
+}

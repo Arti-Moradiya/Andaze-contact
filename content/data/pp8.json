@@ -1,0 +1,17 @@
+{
+  "name": "Contact Information",
+  "colors": "bg-light-fg-dark",
+  "styles": {
+    "self": {
+      "padding": ["pt-6", "pb-6", "pl-6", "pr-6"],
+      "textAlign": "left",
+      "borderColor": "border-neutral",
+      "borderStyle": "solid",
+      "borderWidth": 0,
+      "borderRadius": "none",
+      "justifyContent": "left"
+    }
+  },
+  "type": "Person",
+  "bio": "If you have questions about this Privacy Policy or our privacy practices, please contact us:\n- Website: https://andaze.com\n- Contact page: https://andaze.com/ja/contact/"
+}

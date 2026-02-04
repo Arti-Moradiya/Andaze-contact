@@ -1,0 +1,17 @@
+{
+  "name": "Information We Collect",
+  "colors": "bg-light-fg-dark",
+  "styles": {
+    "self": {
+      "padding": ["pt-6", "pb-6", "pl-6", "pr-6"],
+      "textAlign": "left",
+      "borderColor": "border-neutral",
+      "borderStyle": "solid",
+      "borderWidth": 0,
+      "borderRadius": "none",
+      "justifyContent": "left"
+    }
+  },
+  "type": "Person",
+  "bio": "The Extension **does not collect, store, transmit, or process any personal data.** Specifically:\n\n- No user-identifiable information is collected\n- No customer, tenant, or Business Central data is accessed outside the tenant\n- No telemetry, usage tracking, or analytics data is collected\n- No cookies or similar tracking technologies are used"
+}

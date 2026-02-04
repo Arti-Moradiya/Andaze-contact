@@ -1,0 +1,17 @@
+{
+  "name": "Compliance with Laws and Regulations",
+  "colors": "bg-light-fg-dark",
+  "styles": {
+    "self": {
+      "padding": ["pt-6", "pb-6", "pl-6", "pr-6"],
+      "textAlign": "left",
+      "borderColor": "border-neutral",
+      "borderStyle": "solid",
+      "borderWidth": 0,
+      "borderRadius": "none",
+      "justifyContent": "left"
+    }
+  },
+  "type": "Person",
+  "bio": "This Extension is designed to comply with applicable data protection and privacy regulations, including:\n- General Data Protection Regulation (GDPR)\n- Microsoft Commercial Marketplace policies"
+}

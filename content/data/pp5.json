@@ -1,0 +1,17 @@
+{
+  "name": "Security",
+  "colors": "bg-light-fg-dark",
+  "styles": {
+    "self": {
+      "padding": ["pt-6", "pb-6", "pl-6", "pr-6"],
+      "textAlign": "left",
+      "borderColor": "border-neutral",
+      "borderStyle": "solid",
+      "borderWidth": 0,
+      "borderRadius": "none",
+      "justifyContent": "left"
+    }
+  },
+  "type": "Person",
+  "bio": "Since the Extension does not collect or process personal data, there is **no external data storage or transmission risk** introduced by this solution. The Extension complies with Microsoft Dynamics 365 Business Central extension development and security standards."
+}

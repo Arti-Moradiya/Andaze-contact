@@ -1,0 +1,17 @@
+{
+  "name": "Use of Information",
+  "colors": "bg-light-fg-dark",
+  "styles": {
+    "self": {
+      "padding": ["pt-6", "pb-6", "pl-6", "pr-6"],
+      "textAlign": "left",
+      "borderColor": "border-neutral",
+      "borderStyle": "solid",
+      "borderWidth": 0,
+      "borderRadius": "none",
+      "justifyContent": "left"
+    }
+  },
+  "type": "Person",
+  "bio": "Because the Extension does not collect personal information, **no personal data is used for any purpose**, including:\n- Analytics\n- Marketing\n- Profiling\n- Advertising\n\nThe Extension functions entirely within Microsoft Dynamics 365 Business Central to provide **localized Japanese UI labels** only."
+}
